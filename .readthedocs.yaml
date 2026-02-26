@@ -3,15 +3,21 @@
 
 version: 2
 
+# Required: explicit Sphinx config (see Read the Docs blog Dec 2024)
+sphinx:
+  configuration: docs/conf.py
+  fail_on_warning: false
+
 build:
   os: ubuntu-22.04
   tools:
     python: "3.11"
   jobs:
     post_checkout: []
-  sphinx:
-    configuration: docs/conf.py
-    fail_on_warning: false
+
+python:
+  install:
+    - requirements: requirements-docs.txt
 
 formats:
   - pdf
