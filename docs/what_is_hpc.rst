@@ -7,9 +7,15 @@ While a standard desktop machine might only have one CPU, HPC systems' multi-cor
 
 **Benefits to Your Research**
 The primary benefit to using HPC systems to run computing tasks are:
+
  ● Faster processing speeds 
+
  ● Larger data input handling 
+
  ● Higher-resolution modeling 
+
  ● Larger memory capacity 
+
  ● Improved reproducibility through standardized software environments 
+
  ● Allows access to scientific software stacks (ex: MPI, OpenMP, Cuda, etc.)

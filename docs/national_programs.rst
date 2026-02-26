@@ -4,7 +4,7 @@ National Programs
 `NSF ACCESS <https://access-ci.org/>`_
 --------------------------------------
 
-.. image:: images/4.png
+.. image:: _static/images/4.png
    :align: center
 
 The NSF ACCESS (Advanced Cyberinfrastructure Coordination Ecosystem: Services & Support) program is a U.S. National Science Foundation initiative that provides academic researchers, educators, and students with coordinated access to advanced high-performance computing (HPC), cloud computing, storage, data resources, and technical expertise across multiple national computing centers. Rather than relying on a single supercomputer, ACCESS connects a nationwide ecosystem of systems through a unified allocation and user support framework. ACCESS is supported through your Texas State ID by default, but you must first create an account through your Texas State ID. 
@@ -14,7 +14,7 @@ Through ACCESS, you can explore free HPC resources across the U.S. and receive a
 `NWSC <https://www.cisl.ucar.edu/ncar-wyoming-supercomputing-center#visiting>`_
 --------------------------------------------------------------------------------
 
-.. image:: images/5.jpg
+.. image:: _static/images/5.jpg
    :align: center
 
 The NCAR-Wyoming Supercomputing Center (NWSC) is a national high-performance computing facility operated by the National Center for Atmospheric Research (NCAR) in partnership with the National Science Foundation and the State of Wyoming. The NWSC provides advanced supercomputing, data storage, and visualization resources designed primarily to support atmospheric science, climate modeling, Earth system science, and related computational research. Rather than serving a single university, the NWSC operates as an open scientific user facility supporting researchers from universities, government laboratories, and collaborating institutions worldwide whose work aligns with geoscience and environmental research missions. 

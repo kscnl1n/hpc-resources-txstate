@@ -4,7 +4,7 @@ Local
 Texas State Cluster: LEAP2 
 --------------------------
 
-.. image:: images/2.png
+.. image:: _static/images/2.png
    :align: center
 
 Texas State University has its own HPC cluster available to Texas State researchers called LEAP2. With 5,808 total CPU cores, 8 NVIDIA A100 GPU nodes, and 100 GB/s, it is a respectable HPC system capable of rigorous scientific workloads. Any student or faculty member can request allocation space through the LEAP2 portal here , though it is also open to requests for external collaborators. Documentation for using the LEAP2 cluster can be found here . It utilizes a SLURM scheduler and is Linux-based. 
@@ -12,7 +12,7 @@ Texas State University has its own HPC cluster available to Texas State research
 Texas Advanced Computing Center (TACC)
 -------------------------------------
 
-.. image:: images/3.jpg
+.. image:: _static/images/3.jpg
    :align: center
 
 If you are looking for more powerful systems, the **Texas Advanced Computing Center**, located in Austin, TX also provides allocations for researchers who want to use HPC systems. Home to the `fastest supercomputer in the U.S. <https://tacc.utexas.edu/systems/frontera/>`_, TACC is a research unit of UT Austin, and it boasts extremely powerful systems: 

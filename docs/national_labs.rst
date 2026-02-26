@@ -3,7 +3,7 @@ National Labs
 
 Many Department of Energy (DoE) labs offer free computing resources for researchers who submit proposals through their websites. Although access can be competitive, both academic and industry researchers can apply for accounts. 
 
-.. image:: images/6.png
+.. image:: _static/images/6.png
    :align: center
 
 DOE INCITE 
