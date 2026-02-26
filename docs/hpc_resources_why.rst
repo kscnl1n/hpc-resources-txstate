@@ -10,4 +10,5 @@ Utilizing HPC in your research can greatly accelerate it. Not only do HPC system
 
 Problems that could take weeks can often be reduced to hours, enabling tighter feedback loops, faster iteration, and more ambitious experimental design. HPC systems provide access to thousands of CPU cores, GPU accelerators, high-memory nodes, and ultra-fast interconnects designed specifically for large-scale computation. This means you can parallelize simulations, distribute workloads efficiently, and run ensemble experiments. Rather than settling for a single model run, you can execute hundreds of variations to test robustness.
  
-Instead of subsampling your dataset, you can analyze it in full. That shift, from "what can my laptop handle?" to "what does the science require?", is extremely transformative in research--probably why every Department of Energy lab to date utilizes them !
+Instead of subsampling your dataset, you can analyze it in full. That shift, from "what can my laptop handle?" to "what does the science require?", is extremely transformative in research--probably why `every Department of Energy lab to date utilizes them! <https://www.energy.gov/supercomputing-and-exascale>`_
+

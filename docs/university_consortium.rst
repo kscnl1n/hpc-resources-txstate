@@ -1,4 +1,20 @@
 University/Consortium
 =====================
 
-Many universities own HPC clusters that can rival resources provided by dedicated HPC facilities. Although access to these can be difficult to obtain unless partnered with these universities, the following university-level resources are particularly notable: Massachusetts green high performance computing center - https://www.mghpcc.org/ ● For those who are looking to use green computing resources. The Massachusetts Green High Performance Computing Center (MGHPCC) is an intercollegiate high-performance computing facility located in Holyoke, Massachusetts that provides large-scale computational infrastructure powered primarily by energy-efficient and renewable energy sources. Operated as a collaboration between major research universities (Boston University, Harvard, MIT, Northeastern University, the University of Massachusetts system, and Yale), a defining feature of MGHPCC is its focus on sustainable or "green" computing , using hydroelectric power and energy-efficient data center design to significantly reduce the environmental footprint of large-scale computation. Access to MGHPCC resources is typically obtained through membership institutions, collaborative research partnerships, or shared platforms such as the Unity Research Computing Platform, which allows both academic and industry researchers to run scalable workflows using CPUs and GPUs through managed allocations. University of Arizona Cluster - https://hpcdocs.hpc.arizona.edu/ University of Minnesota - https://msi.umn.edu/ University of Maryland High-Performance computing center - https://hpcc.umd.edu/ Other universities like Georgia Tech, Columbia, Dartmouth, etc. also have supercomputing clusters. If you are working with researchers from a different university, it might be worth looking into what HPC resources they have available at their home institution.
+Many universities own HPC clusters that can rival resources provided by dedicated HPC facilities. Although access to these can be difficult to obtain unless partnered with these universities, the following university-level resources are particularly notable: 
+
+**Massachusetts green high performance computing center - https://www.mghpcc.org/ **
+
+● For those who are looking to use green computing resources. 
+
+**The Massachusetts Green High Performance Computing Center (MGHPCC)** is an intercollegiate high-performance computing facility located in Holyoke, Massachusetts that provides large-scale computational infrastructure powered primarily by energy-efficient and renewable energy sources. 
+Operated as a collaboration between major research universities (Boston University, Harvard, MIT, Northeastern University, the University of Massachusetts system, and Yale), a defining feature of MGHPCC is its focus on sustainable or "green" computing , using hydroelectric power and energy-efficient data center design to significantly reduce the environmental footprint of large-scale computation. 
+Access to MGHPCC resources is typically obtained through membership institutions, collaborative research partnerships, or shared platforms such as the Unity Research Computing Platform, which allows both academic and industry researchers to run scalable workflows using CPUs and GPUs through managed allocations.
+
+**University of Arizona Cluster - https://hpcdocs.hpc.arizona.edu/ **
+
+**University of Minnesota - https://msi.umn.edu/ **
+
+**University of Maryland High-Performance computing center - https://hpcc.umd.edu/**
+
+Other universities like Georgia Tech, Columbia, Dartmouth, etc. also have supercomputing clusters. If you are working with researchers from a different university, it might be worth looking into what HPC resources they have available at their home institution.
