@@ -3,7 +3,7 @@ HPC Resources -- Why HPC?
 
 
 
-.. image:: images/1.jpg
+.. image:: _static/images/1.jpg
    :align: center
 
 Utilizing HPC in your research can greatly accelerate it. Not only do HPC systems allow you to work with larger amounts of data, but they can also accelerate the process of making sense of it by providing more powerful computers. HPC systems expand the limits of what is possible with your research by allowing for more detailed simulations, more accurate models, and lightning-fast compute times. Instead of shrinking models to suit desktop workstations, HPC systems allow you to submit vast amounts of training data to a more capable machine.
