@@ -14,7 +14,7 @@ Through ACCESS, you can explore free HPC resources across the U.S. and receive a
 `NWSC <https://www.cisl.ucar.edu/ncar-wyoming-supercomputing-center#visiting>`_
 --------------------------------------------------------------------------------
 
-.. image:: _static/images/5.jpg
+.. image:: _static/images/5.avif
    :align: center
 
 The NCAR-Wyoming Supercomputing Center (NWSC) is a national high-performance computing facility operated by the National Center for Atmospheric Research (NCAR) in partnership with the National Science Foundation and the State of Wyoming. The NWSC provides advanced supercomputing, data storage, and visualization resources designed primarily to support atmospheric science, climate modeling, Earth system science, and related computational research. Rather than serving a single university, the NWSC operates as an open scientific user facility supporting researchers from universities, government laboratories, and collaborating institutions worldwide whose work aligns with geoscience and environmental research missions. 
