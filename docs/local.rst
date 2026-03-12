@@ -1,16 +1,16 @@
 Local
 =====
 
-Texas State Cluster: LEAP2 
---------------------------
+`Texas State Cluster: LEAP2 <https://doit.txst.edu/hpc.html>`_
+--------------------------------------------------------------
 
 .. image:: _static/images/2.png
    :align: center
 
 Texas State University has its own HPC cluster available to Texas State researchers called LEAP2. With 5,808 total CPU cores, 8 NVIDIA A100 GPU nodes, and 100 GB/s, it is a respectable HPC system capable of rigorous scientific workloads. Any student or faculty member can request allocation space through the LEAP2 portal here , though it is also open to requests for external collaborators. Documentation for using the LEAP2 cluster can be found here . It utilizes a SLURM scheduler and is Linux-based. 
 
-Texas Advanced Computing Center (TACC)
--------------------------------------
+`Texas Advanced Computing Center (TACC) <https://tacc.utexas.edu/>`_
+--------------------------------------------------------------------
 
 .. image:: _static/images/3.jpg
    :align: center

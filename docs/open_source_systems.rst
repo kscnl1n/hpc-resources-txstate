@@ -1,7 +1,19 @@
-Open-Source Systems
-===================
+Free-Access vs. Enterprise Systems 
+==================================
 
-Finding funding for HPC resources can be a struggle. **But if you are an academic researcher, there are many systems you can access through your .edu e-mail account for free.**
+Finding funding for HPC resources can be a struggle. **But if you are an academic researcher, there are many systems you can access through your .edu e-mail account for free.** 
+See the following pages for free resources open to researchers of all kinds:
+
+ ● **Local**
+ ● **National Programs**
+ ● **National Labs**
+
+
+Paid Alternatives
+=================
+
+Companies like Lambda labs, Coreweave, and others offer HPC/GPU cluster access via contract or subscription (often used for AI/ML workloads). These aren't traditional academic "allocations" but researchers with grant funding can budget for them if appropriate for research tasks.
+
 
 Many HPC centers dedicated to scientific research provide free compute time on their systems through **allocation-based systems** where researchers can apply for storage space and compute time. HPC systems can be ranked from small to incredibly large. 
 
