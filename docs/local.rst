@@ -37,7 +37,11 @@ You can SSH into LEAP2 using the following command:
 
 You will then be prompted to enter your password. Once you have accessed the system, you will see this prompt:
 
+.. image:: _static/images/cmd-1.png
+   :width: 600px
+   :align: center
 
+You are now registered with LEAP2. For more information on the system, see the following documentation: https://itrcstats2.itrc.txstate.edu/wiki/index.php?title=Main_Page
 
 `Texas Advanced Computing Center (TACC) <https://tacc.utexas.edu/>`_
 --------------------------------------------------------------------
@@ -60,7 +64,14 @@ If you are looking for more powerful systems, the **Texas Advanced Computing Cen
 ● Clock Speed: 2.45 GHz GPU Nodes 
 ● GPUs: 2× NVIDIA A100 (40 GB HBM2) per node 
 
-**Stampede3** 
+**Requesting an Account**
+You need to be an authorized student or faculty memberof an educational or research insitution to use TACC systems.
+
+If you meet these criteria, you can apply for an account here: https://accounts.tacc.utexas.edu/register
+
+.. image:: _static/images/tacc/1.png
+   :width: 600px
+   :align: center
 
 Other Texan HPC resources 
 -------------------------
