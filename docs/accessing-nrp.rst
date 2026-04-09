@@ -10,7 +10,13 @@ https://nrp.ai/documentation/userdocs/start/getting-started/
 
 https://nrp.ai/
 
-When you attempt to sign in, you will be redirected to the TXST authentication system. 
+When you attempt to sign in, you will be redirected to their authentication system through CI Logon. The default log on is Orcid, but **if you are a Texas State student, researcher, or faculty,** select this dropdown and type in 'Texas State University' instead:
+
+You will then be brought to the Texas State University authentication portal:
+
+It will then redirect you to the **NRP Acceptable Use policy**. Click 'agree' and continue.
+
+Once you return to the homepage, you should now see that you have an account in the top right:
 
 
 2. Create Matrix account 
