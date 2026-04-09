@@ -4,7 +4,7 @@ Local
 `Texas State Cluster: LEAP2 <https://doit.txst.edu/hpc.html>`_
 --------------------------------------------------------------
 
-.. image:: _static/images/2.png
+.. image:: _static/images/leap2/2.png
    :align: center
 
 Texas State University has its own HPC cluster available to Texas State researchers called LEAP2. With 5,808 total CPU cores, 8 NVIDIA A100 GPU nodes, and 100 GB/s, it is a respectable HPC system capable of rigorous scientific workloads. Any student or faculty member can request allocation space through the LEAP2 portal here , though it is also open to requests for external collaborators. Documentation for using the LEAP2 cluster can be found here . It utilizes a SLURM scheduler and is Linux-based. 
@@ -20,7 +20,7 @@ Go to: https://doit.txst.edu/hpc.html and scroll to the bottom of the page. Clic
 
 First, it will ask you to **sign in with your Texas State credentials**. After signing in, you will be brought to a form:
 
-.. image:: _static/leap2/2.png
+.. image:: _static/images/leap2/2.png
    :width: 600px
    :align: center
 
@@ -33,7 +33,7 @@ You can access the cluster through a terminal using SSH on Texas State Wifi (TXS
 **Accessing LEAP2 via command line:**
 You can SSH into LEAP2 using the following command:
 
-``ssh [YOUR TX STATE USERNAME]@leap2.txst.edu
+``ssh [YOUR TX STATE USERNAME]@leap2.txst.edu``
 
 You will then be prompted to enter your password. Once you have accessed the system, you will see this prompt:
 
