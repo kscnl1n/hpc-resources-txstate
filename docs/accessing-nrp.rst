@@ -1,4 +1,5 @@
-### Accessing NRP 
+Accessing NRP 
+=============
 
 Nautilus is another resource available through NSF ACCESS that allows Texas State University faculty and staff to utilize its resources! The documentation can be found here:
 https://nrp.ai/documentation/userdocs/start/getting-started/
@@ -24,6 +25,5 @@ https://matrix.nrp-nautilus.io
 
 3. Request admin access for namespace 
 
-  Go to the NRP Support Channel and request admin access for namespace. 
-  
+  Go to the NRP Support Channel and request admin access for namespace
   "I would like to request admin access to create a namespace for my research group at TXST" 
