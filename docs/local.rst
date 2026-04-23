@@ -43,36 +43,6 @@ You will then be prompted to enter your password. Once you have accessed the sys
 
 You are now registered with LEAP2. For more information on the system, see the following documentation: https://itrcstats2.itrc.txstate.edu/wiki/index.php?title=Main_Page
 
-`Texas Advanced Computing Center (TACC) <https://tacc.utexas.edu/>`_
---------------------------------------------------------------------
-
-.. image:: _static/images/3.jpg
-   :align: center
-
-If you are looking for more powerful systems, the **Texas Advanced Computing Center**, located in Austin, TX also provides allocations for researchers who want to use HPC systems. Home to the `fastest supercomputer in the U.S. <https://tacc.utexas.edu/systems/frontera/>`_, TACC is a research unit of UT Austin, and it boasts extremely powerful systems: 
-
-**Frontera**
- Compute Nodes: 8,368 nodes CPU: Intel Xeon Platinum 8280 ("Cascade Lake") Cores per Node: 56 cores Total CPU Cores: \~468,000+ Memory per Node: 192 GB DDR4 Interconnect: Mellanox HDR-100 InfiniBand Local Storage: 480 GB SSD/node 
-
-
-**Lone Star 6** 
-● Compute Nodes: 560 CPU nodes 
-● GPU Nodes: 16 accelerator nodes CPU Nodes 
-● Processor: 2× AMD EPYC 7763 (Milan) 
-● Cores per Node: 128 cores 
-● Memory: 256 GB DDR4/node 
-● Clock Speed: 2.45 GHz GPU Nodes 
-● GPUs: 2× NVIDIA A100 (40 GB HBM2) per node 
-
-**Requesting an Account**
-You need to be an authorized student or faculty memberof an educational or research insitution to use TACC systems.
-
-If you meet these criteria, you can apply for an account here: https://accounts.tacc.utexas.edu/register
-
-.. image:: _static/images/tacc/1.png
-   :width: 600px
-   :align: center
-
 Other Texan HPC resources 
 -------------------------
 Like UT Austin, Texas A&M, UT Dallas, and the University of Houston have HPC clusters of varying size and scale. Although these university-specific clusters are typically only available to students and faculty of the university, they are often accessible through joint research grants, so if you are partnered with one of these institutions, it may be worth examining what resources you have access to.

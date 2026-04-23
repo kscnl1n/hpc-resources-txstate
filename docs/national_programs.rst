@@ -32,6 +32,18 @@ systems.
 One crucial resource available to Texas-based researchers is the Texas Advanced Computing Center (TACC),
 which is located in Austin and accessible through NSF ACCESS. 
 
+'NAIRR (National AI Research Resource) <https://www.nsf.gov/focus-areas/ai/nairr>'
+----------------------------------------------------------------------------------
+
+.. image:: _static/images/nairr.png
+   :align: center
+   :width: 600px
+
+The National Artificial Intelligence Research Resource (NAIRR) is 
+a U.S. National Science Foundation–led initiative that provides a 
+shared, national infrastructure for AI research by giving
+researchers access to advanced computing systems, high-quality 
+datasets, pre-trained models, software tools, and expert support.
 
 `Open Science Grid Consortium <https://osg-htc.org/>`_
 ------------------------------------------------------
