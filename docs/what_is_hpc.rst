@@ -14,6 +14,7 @@ allows them to solve much more complicated problems than standard desktop machin
 systems are so large they take up `entire rooms! <https://tacc.utexas.edu/systems/frontera/>`_
 
 **Benefits to Your Research**
+------------------------------
 The primary benefit(s) to using HPC systems to run computing tasks are:
 
  ● **Faster processing speeds**

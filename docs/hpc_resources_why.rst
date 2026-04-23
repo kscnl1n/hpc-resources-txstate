@@ -22,6 +22,7 @@ efficiently, and run ensemble experiments. Rather than settling for a single mod
 can execute hundreds of variations to test robustness.
 
 **AI Workloads**
+-----------------
 HPC systems are particularly well-suited for AI workloads, which often require massive parallel 
 computation, high-throughput data pipelines, and specialized hardware like GPUs and tensor accelerators. 
 Training modern machine learning models—especially deep neural networks—involves performing billions 
