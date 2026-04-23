@@ -43,6 +43,10 @@ You will then be prompted to enter your password. Once you have accessed the sys
 
 You are now registered with LEAP2. For more information on the system, see the following documentation: https://itrcstats2.itrc.txstate.edu/wiki/index.php?title=Main_Page
 
+Engineering Center HPC Cluster
+-------------------------------
+*Will put more information here when Dr. Valles finishes building his cluster.*
+
 Other Texan HPC resources 
 -------------------------
 Like UT Austin, Texas A&M, UT Dallas, and the University of Houston have HPC clusters of varying size and scale. Although these university-specific clusters are typically only available to students and faculty of the university, they are often accessible through joint research grants, so if you are partnered with one of these institutions, it may be worth examining what resources you have access to.

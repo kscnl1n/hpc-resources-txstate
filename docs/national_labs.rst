@@ -8,9 +8,49 @@ Many Department of Energy (DoE) labs offer free computing resources for research
 
 DOE INCITE 
 ----------
-Many national labs can be accessed specifically through **DoE INCITE**, a program dedicated to fostering innovation in research through HPC collaborations. Consider it an alternative route to ACCESS with a special focus in early-career PhD research: https://doeleadershipcomputing.org/ 
+Many national labs can be accessed specifically through **DoE INCITE**, a selective program dedicated to 
+fostering innovation in research through HPC collaborations. Consider it an alternative route to 
+ACCESS with a special focus in early-career PhD research: https://doeleadershipcomputing.org/ 
 
-Key DOE HPC user facilities include, from most to least accessible:
+To determine whether the INCITE program is right for you, read the following documentation: https://doeleadershipcomputing.org/getting-started/
+
+Using DOE INCITE:
+-----------------
+Navigate to: https://doeleadershipcomputing.org/
+
+This will take you to the **PeerNet** dashboard, where you can view news, events, and other information related to INCITE.
+
+**1.) In the upper right hand corner, click the blue 'Apply Now' button. You should be taken to this page:**
+
+.. image:: _static/images/doe-incite-inst/1.png
+   :align: center
+
+Click to create an account with PeerNet. **Ensure you use your Texas State e-mail.** For organization,
+you can put "Texas State University".
+
+.. image:: _static/images/doe-incite-inst/2.png
+   :align: center
+
+**2.) Go to your e-mail and look for an e-mail from peernet@orau.org.**
+This will contain instructions for verifying your account, and should look something like this:
+
+.. image:: _static/images/doe-incite-inst/3.png
+   :align: center
+
+Once you open the link, you will be asked to create a new password. **Reset it and log-in again.**
+
+When you do, you will be taken to the PeerNet dashboard:
+
+.. image:: _static/images/doe-incite-inst/4.png
+   :align: center
+
+This will serve as an alert notice for INCITE-related activities.
+
+
+
+
+
+Several DOE labs also offer opportunities to collaborate using their resources. Key DOE HPC user facilities include, from most to least accessible:
 -------------------------------------------------------------------- 
 
 **Open to researchers of all kinds:**

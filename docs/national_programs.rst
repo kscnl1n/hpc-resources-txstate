@@ -77,7 +77,7 @@ Complete:
 
 **6.) Click 'Home' and then 'Infrastructure'.**
 
-.. image:: _static/images/nsf-access-inst/6.png
+.. image:: _static/images/nsf-access-inst/7.png
    :align: center
 
 Once you get and verify your account, you should be able to click the **Infrastructure**
@@ -85,14 +85,14 @@ tab to find HPC resources available to you.
 
 **7.) Click "Request Allocations" to apply for compute time on different HPC systems.**
 
-.. image:: _static/images/nsf-access-inst/7.png
+.. image:: _static/images/nsf-access-inst/8.png
    :align: center
 
 If you would like to take free online training courses, click *request training* instead.
 
 **8.) Click "Get Your First Project."
 
-.. image:: _static/images/nsf-access-inst/8.png
+.. image:: _static/images/nsf-access-inst/9.png
    :align: center
 
 NSF ACCESS relies on **Projects** and **Credits** to allocate compute resources on different systems,
@@ -101,7 +101,7 @@ all of which can be found here: https://allocations.access-ci.org/project-types
 Once your project is submitted and approved, you can access compute resources and run jobs, access training, and
 create accounts on different HPC systems. There are four types of projects, each of which are compared in the table below:
 
-.. image:: _static/images/nsf-access-inst/9.png
+.. image:: _static/images/nsf-access-inst/10.png
    :align: center
 
 
