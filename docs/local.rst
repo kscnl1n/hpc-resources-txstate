@@ -14,7 +14,7 @@ Not every student at Texas State is going to have access to to the LEAP2 cluster
 
 Go to: https://doit.txst.edu/hpc.html and scroll to the bottom of the page. Click on the "Request an Account" button:
 
-.. image:: _static/leap2/1.png
+.. image:: _static/images/leap2/1.png
    :width: 600px
    :align: center
 
