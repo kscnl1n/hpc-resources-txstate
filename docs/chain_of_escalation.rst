@@ -7,6 +7,7 @@ Follow the flowchart below to determine what system your project will require:
 
 .. image:: _static/images/flowchart-1.png
    :align: center
+   :width: 120%
 
 Project Size
 ============
